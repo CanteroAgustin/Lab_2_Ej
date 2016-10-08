@@ -1,0 +1,6 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej02\bin\Debug\Ej02.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej02\bin\Debug\Ej02.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej02\bin\Debug\Ej02.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej02\obj\Debug\Ej02.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej02\obj\Debug\Ej02.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej02\obj\Debug\Ej02.pdb

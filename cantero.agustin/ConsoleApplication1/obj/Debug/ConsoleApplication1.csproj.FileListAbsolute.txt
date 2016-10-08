@@ -1,0 +1,8 @@
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\bin\Debug\ModeloParcialLibrary.dll
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\bin\Debug\ModeloParcialLibrary.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

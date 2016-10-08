@@ -1,0 +1,6 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej05-CentroNumerico\bin\Debug\Ej05-CentroNumerico.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej05-CentroNumerico\bin\Debug\Ej05-CentroNumerico.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej05-CentroNumerico\bin\Debug\Ej05-CentroNumerico.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej05-CentroNumerico\obj\Debug\Ej05-CentroNumerico.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej05-CentroNumerico\obj\Debug\Ej05-CentroNumerico.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej05-CentroNumerico\obj\Debug\Ej05-CentroNumerico.pdb

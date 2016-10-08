@@ -1,0 +1,3 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej20-Geometria\bin\Debug\Ej20-Geometria.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej20-Geometria\obj\Debug\Ej20-Geometria.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej20-Geometria\obj\Debug\Ej20-Geometria.pdb

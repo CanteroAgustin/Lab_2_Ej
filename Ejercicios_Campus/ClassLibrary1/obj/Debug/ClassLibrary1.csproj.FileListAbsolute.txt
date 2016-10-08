@@ -1,0 +1,5 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Ejercicios_Campus\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Ejercicios_Campus\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Ejercicios_Campus\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Ejercicios_Campus\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Ejercicios_Campus\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache

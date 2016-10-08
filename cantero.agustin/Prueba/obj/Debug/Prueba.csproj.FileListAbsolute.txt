@@ -1,0 +1,8 @@
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\bin\Debug\Prueba.exe.config
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\bin\Debug\Prueba.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\bin\Debug\Prueba.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\bin\Debug\Clase09-Lavadero.dll
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\bin\Debug\Clase09-Lavadero.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Prueba\obj\Debug\Prueba.pdb

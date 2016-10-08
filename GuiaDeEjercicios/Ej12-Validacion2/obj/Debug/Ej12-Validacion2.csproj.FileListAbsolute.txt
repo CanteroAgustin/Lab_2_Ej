@@ -1,0 +1,5 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej12-Validacion2\bin\Debug\Ej12-Validacion2.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej12-Validacion2\bin\Debug\Ej12-Validacion2.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej12-Validacion2\bin\Debug\Ej12-Validacion2.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej12-Validacion2\obj\Debug\Ej12-Validacion2.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej12-Validacion2\obj\Debug\Ej12-Validacion2.pdb

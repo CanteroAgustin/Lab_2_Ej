@@ -1,0 +1,6 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej19-Boligrafos\bin\Debug\Ej19-Boligrafos.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej19-Boligrafos\bin\Debug\Ej19-Boligrafos.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej19-Boligrafos\bin\Debug\Ej19-Boligrafos.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej19-Boligrafos\obj\Debug\Ej19-Boligrafos.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej19-Boligrafos\obj\Debug\Ej19-Boligrafos.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej19-Boligrafos\obj\Debug\Ej19-Boligrafos.pdb

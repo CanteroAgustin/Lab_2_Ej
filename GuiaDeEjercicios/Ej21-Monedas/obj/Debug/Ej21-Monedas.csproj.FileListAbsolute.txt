@@ -1,0 +1,15 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\bin\Debug\Ej21-Monedas.exe.config
+E:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\bin\Debug\Ej21-Monedas.exe.config
+E:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.csprojResolveAssemblyReference.cache
+E:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\bin\Debug\Ej21-Monedas.exe
+E:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\bin\Debug\Ej21-Monedas.pdb
+E:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.exe
+E:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.pdb
+F:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\bin\Debug\Ej21-Monedas.exe.config
+F:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.exe
+F:\Programacion 2 cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\bin\Debug\Ej21-Monedas.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\bin\Debug\Ej21-Monedas.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej21-Monedas\obj\Debug\Ej21-Monedas.csprojResolveAssemblyReference.cache

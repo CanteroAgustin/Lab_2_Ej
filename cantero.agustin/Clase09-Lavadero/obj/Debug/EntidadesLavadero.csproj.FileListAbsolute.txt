@@ -1,0 +1,4 @@
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09-Lavadero\bin\Debug\Clase09-Lavadero.dll
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09-Lavadero\bin\Debug\Clase09-Lavadero.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09-Lavadero\obj\Debug\Clase09-Lavadero.dll
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09-Lavadero\obj\Debug\Clase09-Lavadero.pdb

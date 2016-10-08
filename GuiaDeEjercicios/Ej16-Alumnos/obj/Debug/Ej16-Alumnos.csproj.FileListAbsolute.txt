@@ -1,0 +1,6 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej16-Alumnos\bin\Debug\Ej16-Alumnos.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej16-Alumnos\bin\Debug\Ej16-Alumnos.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej16-Alumnos\bin\Debug\Ej16-Alumnos.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej16-Alumnos\obj\Debug\Ej16-Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej16-Alumnos\obj\Debug\Ej16-Alumnos.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej16-Alumnos\obj\Debug\Ej16-Alumnos.pdb

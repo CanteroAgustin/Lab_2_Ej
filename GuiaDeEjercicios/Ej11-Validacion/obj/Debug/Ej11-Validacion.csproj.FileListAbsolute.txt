@@ -1,0 +1,6 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej11-Validacion\bin\Debug\Ej11-Validacion.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej11-Validacion\bin\Debug\Ej11-Validacion.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej11-Validacion\bin\Debug\Ej11-Validacion.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej11-Validacion\obj\Debug\Ej11-Validacion.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej11-Validacion\obj\Debug\Ej11-Validacion.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej11-Validacion\obj\Debug\Ej11-Validacion.pdb

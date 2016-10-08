@@ -1,0 +1,27 @@
+C:\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.exe.config
+C:\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.exe
+C:\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.pdb
+C:\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.csprojResolveAssemblyReference.cache
+C:\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.exe
+C:\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.pdb
+F:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.exe.config
+F:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.exe
+F:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.pdb
+F:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.exe
+F:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.pdb
+F:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.csprojResolveAssemblyReference.cache
+E:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.exe.config
+E:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.exe
+E:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.pdb
+D:\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.exe.config
+D:\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.exe
+D:\Projects\cantero.agustin\Clase02\bin\Debug\Clase02.pdb
+D:\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.csprojResolveAssemblyReference.cache
+D:\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.exe
+D:\Projects\cantero.agustin\Clase02\obj\Debug\Clase02.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase02\bin\Debug\Clase02.exe.config
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase02\bin\Debug\Clase02.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase02\bin\Debug\Clase02.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase02\obj\Debug\Clase02.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase02\obj\Debug\Clase02.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase02\obj\Debug\Clase02.pdb

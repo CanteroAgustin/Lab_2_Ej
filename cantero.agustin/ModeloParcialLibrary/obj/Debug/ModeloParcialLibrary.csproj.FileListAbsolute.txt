@@ -1,0 +1,5 @@
+D:\Programacion 2º cuatrimestre\cantero.agustin\ModeloParcialLibrary\bin\Debug\ModeloParcialLibrary.dll
+D:\Programacion 2º cuatrimestre\cantero.agustin\ModeloParcialLibrary\bin\Debug\ModeloParcialLibrary.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\ModeloParcialLibrary\obj\Debug\ModeloParcialLibrary.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\ModeloParcialLibrary\obj\Debug\ModeloParcialLibrary.dll
+D:\Programacion 2º cuatrimestre\cantero.agustin\ModeloParcialLibrary\obj\Debug\ModeloParcialLibrary.pdb

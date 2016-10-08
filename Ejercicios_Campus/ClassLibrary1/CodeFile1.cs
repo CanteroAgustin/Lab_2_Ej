@@ -1,0 +1,1 @@
+﻿static enum EPuestoJerarquico { Administracion, Gerencia, Sistemas, Accionista };

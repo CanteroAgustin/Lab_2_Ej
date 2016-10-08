@@ -1,0 +1,6 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\EJ15-Calculadora\bin\Debug\EJ15-Calculadora.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\EJ15-Calculadora\bin\Debug\EJ15-Calculadora.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\EJ15-Calculadora\bin\Debug\EJ15-Calculadora.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\EJ15-Calculadora\obj\Debug\EJ15-Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\EJ15-Calculadora\obj\Debug\EJ15-Calculadora.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\EJ15-Calculadora\obj\Debug\EJ15-Calculadora.pdb

@@ -1,0 +1,18 @@
+C:\Projects\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.exe.config
+C:\Projects\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.exe
+C:\Projects\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.pdb
+C:\Projects\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.csprojResolveAssemblyReference.cache
+C:\Projects\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.exe
+C:\Projects\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.pdb
+D:\Projects\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.exe.config
+D:\Projects\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.exe
+D:\Projects\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.pdb
+D:\Projects\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.exe
+D:\Projects\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.pdb
+D:\Projects\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.exe.config
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase03_a\bin\Debug\Clase03_a.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase03_a\obj\Debug\Clase03_a.pdb

@@ -1,0 +1,12 @@
+D:\Projects\cantero.agustin\Clase05\bin\Debug\Clase05.exe.config
+D:\Projects\cantero.agustin\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache
+D:\Projects\cantero.agustin\Clase05\bin\Debug\Clase05.exe
+D:\Projects\cantero.agustin\Clase05\bin\Debug\Clase05.pdb
+D:\Projects\cantero.agustin\Clase05\obj\Debug\Clase05.exe
+D:\Projects\cantero.agustin\Clase05\obj\Debug\Clase05.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase05\bin\Debug\Clase05.exe.config
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase05\bin\Debug\Clase05.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase05\bin\Debug\Clase05.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase05\obj\Debug\Clase05.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase05\obj\Debug\Clase05.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase05\obj\Debug\Clase05.pdb

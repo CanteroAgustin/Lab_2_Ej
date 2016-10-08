@@ -1,0 +1,6 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej06-AñoBisiesto\bin\Debug\Ej06-AñoBisiesto.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej06-AñoBisiesto\bin\Debug\Ej06-AñoBisiesto.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej06-AñoBisiesto\bin\Debug\Ej06-AñoBisiesto.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej06-AñoBisiesto\obj\Debug\Ej06-AñoBisiesto.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej06-AñoBisiesto\obj\Debug\Ej06-AñoBisiesto.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej06-AñoBisiesto\obj\Debug\Ej06-AñoBisiesto.pdb

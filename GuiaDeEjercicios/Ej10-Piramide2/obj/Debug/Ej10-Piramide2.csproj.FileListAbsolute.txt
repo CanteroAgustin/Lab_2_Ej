@@ -1,0 +1,5 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej10-Piramide2\bin\Debug\Ej10-Piramide2.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej10-Piramide2\bin\Debug\Ej10-Piramide2.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej10-Piramide2\bin\Debug\Ej10-Piramide2.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej10-Piramide2\obj\Debug\Ej10-Piramide2.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\GuiaDeEjercicios\Ej10-Piramide2\obj\Debug\Ej10-Piramide2.pdb

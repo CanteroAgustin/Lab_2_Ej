@@ -1,0 +1,24 @@
+c:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.exe.config
+c:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.csprojResolveAssemblyReference.cache
+c:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.exe
+c:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.pdb
+c:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.exe
+c:\Programacion 2 cuatrimestre\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.pdb
+C:\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.exe.config
+C:\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.exe
+C:\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.pdb
+C:\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.exe
+C:\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.pdb
+C:\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.csprojResolveAssemblyReference.cache
+D:\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.exe.config
+D:\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.exe
+D:\Projects\cantero.agustin\Clase01\bin\Debug\Clase01.pdb
+D:\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.csprojResolveAssemblyReference.cache
+D:\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.exe
+D:\Projects\cantero.agustin\Clase01\obj\Debug\Clase01.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase01\bin\Debug\Clase01.exe.config
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase01\bin\Debug\Clase01.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase01\bin\Debug\Clase01.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase01\obj\Debug\Clase01.csprojResolveAssemblyReference.cache
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase01\obj\Debug\Clase01.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase01\obj\Debug\Clase01.pdb

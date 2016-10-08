@@ -1,0 +1,10 @@
+D:\Projects\cantero.agustin\Clase09\bin\Debug\Clase09.exe.config
+D:\Projects\cantero.agustin\Clase09\bin\Debug\Clase09.exe
+D:\Projects\cantero.agustin\Clase09\bin\Debug\Clase09.pdb
+D:\Projects\cantero.agustin\Clase09\obj\Debug\Clase09.exe
+D:\Projects\cantero.agustin\Clase09\obj\Debug\Clase09.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09\bin\Debug\Clase09.exe.config
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09\bin\Debug\Clase09.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09\bin\Debug\Clase09.pdb
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09\obj\Debug\Clase09.exe
+D:\Programacion 2º cuatrimestre\cantero.agustin\Clase09\obj\Debug\Clase09.pdb

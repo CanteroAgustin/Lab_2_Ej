@@ -1,0 +1,5 @@
+D:\Parcial_1_2D\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Parcial_1_2D\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.dll
+D:\Parcial_1_2D\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.pdb
+D:\Parcial_1_2D\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.dll
+D:\Parcial_1_2D\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.pdb
