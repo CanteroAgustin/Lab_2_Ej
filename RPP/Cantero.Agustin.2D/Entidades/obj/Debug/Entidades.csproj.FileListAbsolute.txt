@@ -1,0 +1,19 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\Entidades\obj\Debug\Entidades.pdb

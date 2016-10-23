@@ -1,0 +1,52 @@
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.FormEstante.resources
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.dll
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.exe
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.FormEstante.resources
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.pdb
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.exe
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.pdb
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.FormEstante.resources
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\agustin.cantero\Desktop\Laboratorio_2-master\Laboratorio_2-master\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\FormEstante.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.dll
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.exe
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\Entidades.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\bin\Debug\TestEstante.pdb
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.FormEstante.resources
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\agustin.cantero\Desktop\documentos varios\Personal\Programacion 2º cuatrimestre\RPP\Cantero.Agustin.2D\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Estante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_capacidad>4</_capacidad>
+  <_productos>
+    <Producto xsi:type="Harina">
+      <_codigoBarra>102</_codigoBarra>
+      <_marca>Favorita</_marca>
+      <_precio>37.5</_precio>
+      <_tipo>CuatroCeros</_tipo>
+    </Producto>
+    <Producto xsi:type="Galletita">
+      <_codigoBarra>113</_codigoBarra>
+      <_marca>Pitusas</_marca>
+      <_precio>33.65</_precio>
+      <_peso>250</_peso>
+    </Producto>
+    <Producto xsi:type="Galletita">
+      <_codigoBarra>111</_codigoBarra>
+      <_marca>Diversión</_marca>
+      <_precio>56</_precio>
+      <_peso>500</_peso>
+    </Producto>
+    <Producto xsi:type="Jugo">
+      <_codigoBarra>112</_codigoBarra>
+      <_marca>Naranjú</_marca>
+      <_precio>25</_precio>
+      <_sabor>Pasable</_sabor>
+    </Producto>
+  </_productos>
+</Estante>
